@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/huskyops-logo.png" alt="HuskyOps Logo" width="150" height="150">
+  <img src="husky_256_preview.png"
 </p>
 
 <h1 align="center">HuskyOps</h1>
@@ -22,7 +22,7 @@
 ## Screenshot
 
 <p align="center">
-  <img src="docs/images/huskyops-screenshot.png" alt="HuskyOps Interface" width="800">
+  <img src="husky_256_preview.png"
 </p>
 
 ---
