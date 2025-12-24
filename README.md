@@ -76,6 +76,8 @@
 
 HuskyOps is a portable application — no installation required. Extract and run.
 
+**Note:** Each release includes a 30-day evaluation period from the build date. Download the latest release for the most recent build.
+
 ---
 
 ## System Requirements
