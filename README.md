@@ -22,7 +22,9 @@
 ## Screenshot
 
 <p align="center">
-  <img src="husky_256_preview.png"
+  <a href="MainWindow.png">
+    <img src="MainWindow.png" alt="HuskyOps Interface" width="800">
+  </a>
 </p>
 
 ---
